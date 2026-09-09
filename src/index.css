@@ -6,6 +6,8 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 85%;
+  zoom: 85%;
 }
 
 body {
